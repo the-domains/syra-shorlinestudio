@@ -1,0 +1,28 @@
+name: syra@shorlinestudio
+favicon: null
+layout_spectrum: 0.9938198800664395
+typography_spectrum: 0.9082658281549811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9880947966594249
+  lightness: 0.4918187945149839
+  saturation: 0.047098535811528563
+  rhythmicContrast: 0.587541532702744
+purpose: []
